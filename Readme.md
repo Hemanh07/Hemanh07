@@ -23,8 +23,7 @@
 
 [![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemanh07&bg_color=000000&color=37ff00&line=00d1e0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemanh07&bg_color=000000&color=37ff00&line=00d1e0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/hemanth?theme=dark&font=Noto%20Serif%20Ethiopic)
 
 
 
