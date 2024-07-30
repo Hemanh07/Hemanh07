@@ -1,10 +1,10 @@
-<>  👋 Hi all , This is Hemanth R.
+>  👋 Hi all , This is Hemanth R.
 
-<> 💻 I'm a Student and a Web Developer.
+> 💻 I'm a Student and a Web Developer.
 
 
 
-# Tools I Use
+# Development language I Use
 
 ![HTML](https://img.shields.io/badge/html-mu?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=black)
 ![CSS](https://img.shields.io/badge/css-ss?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=black)
@@ -12,11 +12,11 @@
 ![React](https://img.shields.io/badge/React-library?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=black)
 ![Express](https://img.shields.io/badge/express-framework?style=for-the-badge&logo=express&logoColor=%23FFFFFF&labelColor=black&color=black)
 ![Node](https://img.shields.io/badge/node-js?style=for-the-badge&logo=nodedotjs&logoColor=%23339933&labelColor=black&color=black)
-
 ![MongoDB](https://img.shields.io/badge/mongodb-db?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=black&color=black)
 ![Git](https://img.shields.io/badge/git-vc?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=black)
 
-# Programming I Use
+# Coding Languages I Use
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
 
 # Github Stats
