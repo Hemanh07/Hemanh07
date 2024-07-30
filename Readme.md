@@ -1,8 +1,16 @@
->  👋 Hi all , This is Hemanth R.
+<>  👋 Hi all , This is Hemanth R.
 
-> 💻 I'm a Student and a Web Developer.
+<> 💻 I'm a Student and a Web Developer.
 
 
+# Github Stats
+
+[![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemanh07&bg_color=000000&color=37ff00&line=00d1e0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hemanth?theme=dark&font=Noto%20Serif%20Ethiopic)
+
+# Coding Languages I Use
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
 # Development language I Use
 
@@ -15,15 +23,12 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-db?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=black&color=black)
 ![Git](https://img.shields.io/badge/git-vc?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=black)
 
-# Coding Languages I Use
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+# Follow Me on 
+
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hemanth-r-74b023283/}
 
 
-# Github Stats
 
-[![Hemanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemanh07&bg_color=000000&color=37ff00&line=00d1e0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/hemanth?theme=dark&font=Noto%20Serif%20Ethiopic)
 
 
 
