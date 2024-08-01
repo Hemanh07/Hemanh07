@@ -13,10 +13,11 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+<br/>
 # Development language I Use
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-ss?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=black)
 ![JS](https://img.shields.io/badge/javascript-lang?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=black)
 ![React](https://img.shields.io/badge/React-library?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=black)
