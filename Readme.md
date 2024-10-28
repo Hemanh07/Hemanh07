@@ -3,11 +3,13 @@
 <> 💻 I'm a Student and a Web Developer.
 
 
-# Coding Languages I Use
-<img width="48" height="48" style="display:inline;" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="48" height="48" style="display:inline;" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-<img width="48" height="48" style="display:inline;" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-<img width="48" height="48" style="display:inline;" src="https://img.icons8.com/color/48/java.png" alt="java--v1"/>
+# Coding Languages I Use 
+
+<img width="" class="display" height="48" style="display: flex; margin: auto;border:10px red solid;" style="display:flex;" src="https://img.icons8.com/color/48/python--v1.png" alt="  >"/> 
+<img width="48" class="display" height="48" style="display:inline;" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt=">"/> 
+<img width="48" class="display" height="48" style="display:inline;" src="https://img.icons8.com/color/48/c-programming.png" alt="  >"/> 
+ 
+ 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hemanth_R0007?theme=dark&font=Noto%20Serif%20Ethiopic)
 
@@ -40,9 +42,7 @@
 
 
 
-
-
-
+ 
 
 
 
